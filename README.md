@@ -1,4 +1,4 @@
-STATUS: This project is probably dead. Leaving this around if someone wants to take a shot at this.
+**STATUS: This project is dead. Leaving this around if someone wants to take a shot at this.**
 
 ## Nadion
 
